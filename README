@@ -1,0 +1,9 @@
+---- About ----
+
+nimrod-trigonometry is a nimrod module that implements trigonometry functions that are not in the standard library.
+
+See the documentation.html file for documentation.
+
+---- License ----
+
+nimrod-trigonometry is released under the MIT open source license.
