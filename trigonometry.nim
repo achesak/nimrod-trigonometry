@@ -3,6 +3,8 @@
 # Written by Adam Chesak.
 # Code released under the MIT open source license.
 
+import math
+
 proc arccosh*(x : float): float =
   ## Returns the inverse hyberbolic cosine of x.
   result = ln(x + sqrt(x * x - 1))
